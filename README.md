@@ -7,6 +7,7 @@ the dataset used for mining is Video Game Sales in Kaggle and you can download f
 
 Process
 ---
-1.marketing analysis: pupular games, categories, pubulishers and platforms
-2.prediction on sales per year
-3.visualizaton: sales stories
+1.marketing analysis: pupular games, categories, pubulishers and platforms  
+2.prediction on sales per year  
+3.visualizaton: sales stories  
+ 
